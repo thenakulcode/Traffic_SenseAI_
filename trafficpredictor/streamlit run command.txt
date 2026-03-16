@@ -1,1 +1,3 @@
-streamlit run "C:\Users\nakul\OneDrive\Desktop\trafficpredictor\trafficsenseai.py"
+streamlit run "C:\Users\nakul\OneDrive\Desktop\trafficpredictor\trafficsenseai.py" for Anaconda
+or
+python -m streamlit run trafficsenseai.py
