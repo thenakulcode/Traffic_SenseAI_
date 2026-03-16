@@ -1,1 +1,1 @@
-streamlit run "C:\Users\nakul\OneDrive\Desktop\trafficpredictor\trafficpredictor.py"
+streamlit run "C:\Users\nakul\OneDrive\Desktop\trafficpredictor\trafficsenseai.py"
