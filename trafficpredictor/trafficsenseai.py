@@ -10,7 +10,7 @@ import os
 # Session State
 # -----------------------------
 
- if "map_obj" not in st.session_state:
+# if "map_obj" not in st.session_state:
      st.session_state.map_obj = None
 
 #if "prediction" not in st.session_state:
